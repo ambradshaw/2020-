@@ -8,6 +8,6 @@ bullshit again which, while entertaining, isn't exactly helpful when you've got 
  said I'm pretty fuckin' proud of everything here given the circumstances I had to write it under, because as bad as you might think
  this class is now, it's about 10 times worse during the summer as a co-op student.
  
- Chug a rockstar, smoke a bowl and grab something stronger than water, you're in for a time.
+ Chug a rockstar, grab your vice of choice and settle in, you're in for a time.
  
  Good luck.
