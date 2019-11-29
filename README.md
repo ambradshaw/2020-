@@ -10,4 +10,4 @@ bullshit again which, while entertaining, isn't exactly helpful when you've got 
  
  Chug a rockstar, grab your vice of choice and settle in, you're in for a time.
  
- Good luck.
+ May the force be with you (you're fucked m8).
