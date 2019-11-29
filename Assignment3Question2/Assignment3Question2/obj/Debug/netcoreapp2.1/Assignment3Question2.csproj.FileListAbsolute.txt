@@ -1,0 +1,11 @@
+C:\Users\amdbr\source\repos\2020\Assignment3Question2\Assignment3Question2\bin\Debug\netcoreapp2.1\Assignment3Question2.deps.json
+C:\Users\amdbr\source\repos\2020\Assignment3Question2\Assignment3Question2\bin\Debug\netcoreapp2.1\Assignment3Question2.runtimeconfig.json
+C:\Users\amdbr\source\repos\2020\Assignment3Question2\Assignment3Question2\bin\Debug\netcoreapp2.1\Assignment3Question2.runtimeconfig.dev.json
+C:\Users\amdbr\source\repos\2020\Assignment3Question2\Assignment3Question2\bin\Debug\netcoreapp2.1\Assignment3Question2.dll
+C:\Users\amdbr\source\repos\2020\Assignment3Question2\Assignment3Question2\bin\Debug\netcoreapp2.1\Assignment3Question2.pdb
+C:\Users\amdbr\source\repos\2020\Assignment3Question2\Assignment3Question2\obj\Debug\netcoreapp2.1\Assignment3Question2.csprojAssemblyReference.cache
+C:\Users\amdbr\source\repos\2020\Assignment3Question2\Assignment3Question2\obj\Debug\netcoreapp2.1\Assignment3Question2.csproj.CoreCompileInputs.cache
+C:\Users\amdbr\source\repos\2020\Assignment3Question2\Assignment3Question2\obj\Debug\netcoreapp2.1\Assignment3Question2.AssemblyInfoInputs.cache
+C:\Users\amdbr\source\repos\2020\Assignment3Question2\Assignment3Question2\obj\Debug\netcoreapp2.1\Assignment3Question2.AssemblyInfo.cs
+C:\Users\amdbr\source\repos\2020\Assignment3Question2\Assignment3Question2\obj\Debug\netcoreapp2.1\Assignment3Question2.dll
+C:\Users\amdbr\source\repos\2020\Assignment3Question2\Assignment3Question2\obj\Debug\netcoreapp2.1\Assignment3Question2.pdb
